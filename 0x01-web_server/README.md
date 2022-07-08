@@ -1,0 +1,1 @@
+basic bash comands for server
