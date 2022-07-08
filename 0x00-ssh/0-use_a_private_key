@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Write a Bash script that uses ssh to connect to your server
 
-ssh -i ~/.ssh/school ubuntu@54.80.215.178
+ssh -i ~/.ssh/school ubuntu@54.88.102.174
