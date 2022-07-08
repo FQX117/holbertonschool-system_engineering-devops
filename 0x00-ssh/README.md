@@ -1,0 +1,1 @@
+this is cool the goal is to set up a server if i understand right
