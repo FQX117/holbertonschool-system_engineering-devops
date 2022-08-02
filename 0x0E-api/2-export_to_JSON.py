@@ -6,7 +6,7 @@ def get_json():
     import json
     import requests
     from sys import argv
-    id = argv[0]
+    id = argv[1]
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
                         format(id)).json()
 
