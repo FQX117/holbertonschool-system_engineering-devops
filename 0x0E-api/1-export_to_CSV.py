@@ -5,7 +5,7 @@ def get_csv():
     import csv
     import requests
     from sys import argv
-    id = argv[0]
+    id = argv[1]
     user = requests.get("https://jsonplaceholder.typicode.com/users/{}".
                         format(id)).json()
 
