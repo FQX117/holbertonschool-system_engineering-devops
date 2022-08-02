@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """export to json"""
 
+
 def get_json():
     import csv
     import json
